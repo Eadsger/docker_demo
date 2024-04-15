@@ -2,6 +2,10 @@
 
 Este é um exemplo simples de como criar e executar uma aplicação web em um contêiner Docker.
 
+## Captura de Tela
+
+![Captura de Tela da Aplicação](Screenshot%20from%20CMD.png)
+
 ## Pré-requisitos
 
 Certifique-se de ter o Docker instalado em sua máquina. Você pode encontrar instruções de instalação no site oficial do Docker.
